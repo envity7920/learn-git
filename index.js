@@ -10,6 +10,7 @@ x.map((i)=>{
 for(let i=0;i<x.length;i++){
   x[i]=x[i]+"dah";
 }
+console.log("hihi")
 const y=[...x];
 console.log(y);
 
